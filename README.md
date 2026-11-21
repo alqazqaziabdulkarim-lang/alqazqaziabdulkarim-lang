@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3028&height=220&section=header&text=Abdulkarim%20Al-Qazqazi&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Software%20Developer%20%7C%20Flutter%20%7C%20ASP.NET%20Core%20%7C%20Business%20Systems&descSize=16&descColor=37B989&descAlign=50&descAlignY=58" width="100%" alt="Header Banner" />
+  <img src="profile-overview.jpg" width="100%" alt="Abdulkarim Al-Qazqazi - Portfolio Overview" />
 </p>
 
 <p align="center">
