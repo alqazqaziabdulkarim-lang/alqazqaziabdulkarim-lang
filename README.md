@@ -1,343 +1,286 @@
-# Abdulkarim Al-Qazqazi
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B3028&height=190&section=header&text=Abdulkarim%20Al-Qazqazi&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%7C%20.NET%20%7C%20AI%20%7C%20Business%20Systems&descSize=15&descAlign=50&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3028&height=220&section=header&text=Abdulkarim%20Al-Qazqazi&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Software%20Developer%20%7C%20Flutter%20%7C%20ASP.NET%20Core%20%7C%20Business%20Systems&descSize=16&descColor=37B989&descAlign=50&descAlignY=58" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <strong>Building Software. Engineering Solutions. Creating Impact.</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=37B989&center=true&vCenter=true&width=650&lines=Software+Developer+%26+System+Architect;Flutter+%26+Cross-Platform+Specialist;Enterprise+Backend+with+ASP.NET+Core+%26+Clean+Architecture;Crafting+Smart+Business+%26+Accounting+Systems;Founder+of+Nawa+(%D9%86%D9%88%D8%A7%D8%A9)+-+Code+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  I turn real-world challenges into practical digital solutions through software engineering, intelligent systems, and thoughtful product development.
+  <em>"Turning real-world challenges into practical digital solutions through clean engineering and intelligent systems."</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/alqazqaziabdulkarim-lang">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0B3028?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-alqazqaziabdulkarim--lang-0B3028?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-146C50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-AI%20%26%20Innovation-37B989?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-146C50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Identity-Nawa%20%7C%20%D9%86%D9%88%D8%A7%D8%A9-37B989?style=for-the-badge&logo=leaf&logoColor=white" alt="Nawa" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Modular-0B3028?style=for-the-badge&logo=codepen&logoColor=white" alt="Architecture" />
 </p>
+
+---
+
+### 🌟 Core Engineering Values
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>💡 Problem Solver</h3>
+      <p>Deep dive into business domain before writing a single line of code.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>💻 Clean Code</h3>
+      <p>Clean Architecture, SOLID principles & high maintainability.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛡️ Quality First</h3>
+      <p>Robust data integrity, comprehensive workflows & reliability.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀 Always Learning</h3>
+      <p>Continuous evolution across modern frameworks, cloud & AI.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Developer passionate about designing and building applications that solve real business problems.
+I am a **Software Developer & System Architect** passionate about designing and building end-to-end digital systems that transform business operations. 
 
-My work focuses on developing cross-platform mobile applications, web-based management systems, backend services, and AI-powered solutions.
+My work bridges **cross-platform mobile applications**, **robust backend services**, and **AI-powered integrations**. Rather than just writing functional code, I dedicate myself to domain modeling, clean software architecture, bulletproof data consistency, and delivering intuitive user experiences.
 
-I care about more than writing code. I focus on understanding the problem, designing the right architecture, organizing business logic, and delivering maintainable software that can evolve over time.
+```yaml
+Name: Abdulkarim Al-Qazqazi (عبدالكريم القزقزي)
+Identity: Nawa (نواة) - "كل منتج يبدأ بفكرة"
+Primary Stack: Flutter (Dart) | C# (.NET / ASP.NET Core) | Angular | SQLite / SQL Server
+Specialization: ERPs, Business Accounting, Cross-Platform Apps, Clean Architecture
+Location: Yemen 🇾🇪
+Email: abdulkarimalqazqazi@gmail.com
+LinkedIn: linkedin.com/in/abdulkarim-alqazqazi-5a56763b6
+Phone: +967 782 866 088
+Telegram: @Eng_abdulkarim_IT
+Open For: Impactful Projects & Technical Collaboration
+```
 
-**My engineering interests include:**
-
-- Software Architecture & Clean Architecture
-- Flutter Cross-Platform Development
-- Backend Development with ASP.NET Core
-- Web Application Development with Angular
-- Database Design & Management
-- AI Integration & Intelligent Applications
-- Business Process Automation
-- Technical Leadership & Team Collaboration
+### 🎯 Currently Focused On:
+- 📱 Developing feature-rich **Flutter & Riverpod** applications with offline-first synchronization.
+- ⚡ Designing scalable **ASP.NET Core (.NET 9/10)** backends powered by **Clean Architecture** & **SignalR**.
+- 📊 Architecting specialized **Accounting & ERP Systems** tailored for localized trade workflows.
+- 🤖 Integrating **AI & Computer Vision** assistants into practical industrial & automotive workflows.
 
 ---
 
 ## 🚀 Featured Projects
 
-Projects that represent my experience in software engineering, business solutions, system design, and collaborative development.
+<table>
+  <!-- Project 1: Sayyar Smart -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Sayyar Smart System | منظومة سيّار الذكيّة</h3>
+      <p><strong>AI-Powered Automotive E-Commerce & Customer Assistance Ecosystem</strong></p>
+      <p>An integrated digital ecosystem transforming automotive spare-parts commerce. Connects merchants, clients, and technical advisors via web, mobile, and Telegram bot.</p>
+      <ul>
+        <li><b>Web Platform:</b> Comprehensive management for catalog, stock, and orders.</li>
+        <li><b>Mobile App (Flutter):</b> High-performance parts browsing and tracking.</li>
+        <li><b>AI Assistant:</b> Interactive vehicle diagnosis by make/model with actionable advice.</li>
+        <li><b>Real-Time Sync:</b> Instant notifications and status updates via SignalR.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean%20Architecture-146C50?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Assistant-37B989?style=flat-square" />
+      </p>
+    </td>
+    <!-- Project 2: Daftar Al-Muqawet -->
+    <td width="50%" valign="top">
+      <h3>🌿 Daftar Al-Muqawet | دفتر المقوت</h3>
+      <p><strong>Specialized Agricultural Trading & Accounting ERP System</strong></p>
+      <p>A mission-critical Flutter accounting system organizing multi-party agricultural commerce, daily sessions, and debt settlements.</p>
+      <ul>
+        <li><b>Financial Accounting:</b> Customer/supplier ledger, daily debts, settlements, P&L.</li>
+        <li><b>Harvest Sessions:</b> Real-time batch distributions, expenses, picker wages.</li>
+        <li><b>Offline First:</b> High-integrity local SQLite database with Google Drive backups.</li>
+        <li><b>Reporting:</b> Instant localized PDF invoice & report generation.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Riverpod-146C50?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean%20Architecture-0B3028?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 
-### 🚗 1. Sayyar Smart System | منظومة سيّار الذكيّة 
+  <!-- Project 3: Workers Accounting -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👷 Workers Accounting System | حسابات مقطفين</h3>
+      <p><strong>Workforce Accounting & Daily Field Operations Management</strong></p>
+      <p>Mobile-first operational system designed to manage agricultural labor teams, piecework compensation, and operational expense distributions.</p>
+      <ul>
+        <li><b>Yield Tracking:</b> Real-time quantity recording per worker.</li>
+        <li><b>Automated Payroll:</b> Dynamic wage calculation based on agreed rates.</li>
+        <li><b>Shared Costs:</b> Shared meal expenses, advances, deductions & settlements.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Repository%20Pattern-146C50?style=flat-square" />
+      </p>
+    </td>
+    <!-- Project 4: Smart Health Inspection -->
+    <td width="50%" valign="top">
+      <h3>🏥 Smart Health Inspection System</h3>
+      <p><strong>Regulatory Health Inspection Platform (Graduation Project)</strong></p>
+      <p>Enterprise platform built by a 7-developer team to digitize municipality inspections of food establishments using mobile tools and AI.</p>
+      <ul>
+        <li><b>Role:</b> Team Manager & Product Owner (Agile / Scrum, Jira).</li>
+        <li><b>AI Detection:</b> Camera-assisted recognition of health violations.</li>
+        <li><b>Architecture:</b> Micro-modular backend with Angular admin portal.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agile%20Scrum-146C50?style=flat-square&logo=jira&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-**AI-Powered Automotive E-Commerce & Customer Assistance Ecosystem**
-
-An integrated digital ecosystem designed to transform traditional automotive spare parts shops into online stores.
-
-The system connects shop owners and customers through multiple digital platforms, providing a unified experience for managing products, orders, and automotive assistance.
-
-**Core Components**
-
-- **Merchant Management Platform:** A web-based platform for managing products, inventory, and customer orders.
-- **Customer Mobile Application:** Enables customers to browse spare parts, submit orders, and follow order progress.
-- **AI Automotive Assistant:** Allows customers to select their vehicle's make and model, then interact with an AI assistant to explore potential vehicle issues, understand possible causes, and receive suggested guidance and solutions.
-- **Telegram Bot:** Extends selected customer services through Telegram.
-
-**Technology Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-146C50?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Integration-37B989?style=flat-square" />
-</p>
-
----
-
-### 🌿 2. Daftar Al-Muqawet | دفتر المقوت
-
-**A Specialized Agricultural Trading & Accounting Management System**
-
-A Flutter-based accounting application designed to digitize and organize the daily operations of qat trading businesses.
-
-The system addresses practical business needs through structured financial records, operational workflows, and reporting tools.
-
-**Core Features**
-
-- Customer accounts, debts, payments, and settlements.
-- Farmer and agricultural account management.
-- Crop, jarba, and purchase session management.
-- Daily distributions and operational transactions.
-- Expenses and financial tracking.
-- Profit and loss reporting.
-- Picker wages and related financial operations.
-- PDF reports and document generation.
-- Local data storage and backup workflows.
-
-**Engineering Highlights**
-
-- Feature-oriented application architecture.
-- Clean Architecture principles.
-- Repository and Data Access Object patterns.
-- Use Cases and Unit of Work.
-- Reactive state management.
-- SQLite database design and migration management.
-- Centralized design system and reusable UI components.
-- Data consistency and financial business rules.
-
-**Technology Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-146C50?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-146C50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Google%20Drive%20Backup-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-</p>
-
----
-
-### 👷 3. Workers Accounting System | حسابات مقطفين
-
-**A Workforce Accounting & Daily Operations Management Application**
-
-A Flutter-based application designed to organize daily workforce operations and financial accounts for agricultural businesses.
-
-The system focuses on tracking work quantities, calculating earnings, managing shared expenses, and maintaining accurate worker balances.
-
-**Core Features**
-
-- Daily worker activity and quantity tracking.
-- Automatic earnings calculation based on agreed rates.
-- Shared daily expenses management.
-- Worker withdrawals and deductions.
-- Daily expense records and history.
-- Worker roles and meal-sharing arrangements.
-- Accumulated balances and settlement tracking.
-- Centralized work-date management.
-
-**Technology Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/State%20Management-146C50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software%20Architecture-37B989?style=flat-square" />
-</p>
+<details>
+  <summary><b>🧩 About "Nawa | نواة" — Product Philosophy & Brand Identity</b> (Click to expand)</summary>
+  <br/>
+  <blockquote>
+    <em>"كل منتج يبدأ بفكرة — Every product starts with a core idea."</em>
+  </blockquote>
+  <p>
+    <b>Nawa (نواة)</b> represents my personal engineering identity and vision. It reflects a philosophy grounded in:
+  </p>
+  <ul>
+    <li><b>Problem-Centric Discovery:</b> Understanding the real business friction before picking a technical stack.</li>
+    <li><b>Architectural Rigor:</b> Decoupling business logic from frameworks to ensure software outlives technology trends.</li>
+    <li><b>Data Precision:</b> Zero tolerance for financial discrepancies and state desynchronization.</li>
+    <li><b>Human Experience:</b> Turning intricate operational rules into simple, friendly user interfaces.</li>
+  </ul>
+</details>
 
 ---
 
-### 🏥 4. Smart Health Inspection System
+## 🛠️ Tech Stack & Tooling
 
-**An Intelligent Health Inspection & Regulatory Management Platform**
+<div align="center">
 
-A university graduation project developed collaboratively by a seven-member team to modernize the inspection and monitoring of food and service establishments.
-
-The platform aims to support health inspection workflows through integrated web and mobile experiences, structured inspection procedures, and AI-assisted violation detection.
-
-**My Role: Team Manager & Product Owner**
-
-I served as the team manager and Product Owner, taking responsibility for coordinating the team, organizing the product backlog, defining requirements, and guiding the development process using the Agile Scrum framework.
-
-**Key Responsibilities**
-
-- Coordinating a seven-member development team.
-- Defining product requirements and project scope.
-- Organizing and prioritizing the Product Backlog.
-- Writing User Stories and Acceptance Criteria.
-- Planning and following up on Sprint activities.
-- Coordinating collaboration between frontend, backend, and mobile development.
-- Following up on integration, testing, and delivery activities.
-
-**System Components & Capabilities**
-
-- **Web Administration Platform:** Built with Angular to support administrative workflows and system management.
-- **Backend Services:** Developed using ASP.NET Core and C#.
-- **Database Layer:** PostgreSQL for structured data storage and management.
-- **Mobile Inspection Experience:** Supports field inspection workflows.
-- **AI-Assisted Violation Detection:** Camera-based AI functionality intended to help identify potential health and regulatory violations during inspections.
-- **Inspection Management:** Supports establishment management, inspector assignments, inspection records, and corrective-action follow-up.
-
-**Architecture & Engineering Practices**
-
-- Clean Architecture.
-- Separation of frontend, backend, and data layers.
-- RESTful API integration.
-- Entity Framework Core.
-- Database migrations and schema management.
-- Agile Scrum project management.
-- Requirements engineering and acceptance criteria.
-- Collaborative development and system integration.
-
-**Technology Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-146C50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-37B989?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agile%20Scrum-146C50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-</p>
-
----
-
-### 🧩 5. Nawa | نواة
-
-**A Software Development Identity Focused on Meaningful Digital Solutions**
-
-Nawa represents my broader vision for building software products that begin with understanding the core of a problem and evolve into practical, well-engineered digital solutions.
-
-It reflects my approach to software development: combining technical architecture, business understanding, usability, and continuous improvement.
-
-**Core Principles**
-
-- Understand the problem before building the solution.
-- Design systems around real business requirements.
-- Build maintainable and scalable software.
-- Prioritize data integrity and consistency.
-- Create clear and intuitive user experiences.
-- Continuously improve through learning and engineering discipline.
-
----
-
-## 🛠️ Technical Skills
-
-### Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge" />
-</p>
-
-### Web Development
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### Architecture & Engineering
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-146C50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repository%20Pattern-146C50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0B7285?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Design-146C50?style=for-the-badge" />
-</p>
-
-### AI & Development Practices
-<p>
-  <img src="https://img.shields.io/badge/AI%20Integration-37B989?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agile%20Scrum-146C50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B3028&title_color=37B989&icon_color=37B989&text_color=E9F5EF&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B3028&title_color=37B989&text_color=E9F5EF&langs_count=8" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0B3028&ring=37B989&fire=37B989&currStreakLabel=E9F5EF&sideLabels=E9F5EF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AB5A8" width="75%" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B3028&color=E9F5EF&line=37B989&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
-</p>
-
----
-
-## 🧠 Engineering Philosophy
-
-I believe great software is built through a combination of technical discipline and a deep understanding of real-world problems.
-
-My approach is guided by:
-
-| Principle | What It Means |
+| Domain | Technologies & Frameworks |
 |---|---|
-| Problem First | Understand the business problem before choosing the technology. |
-| Clean Design | Keep architecture organized, modular, and maintainable. |
-| Data Integrity | Treat consistency and correctness as essential system requirements. |
-| Reusability | Build shared components and services instead of duplicating logic. |
-| User Experience | Make complex business operations simple and intuitive. |
-| Continuous Improvement | Review, refine, and improve every stage of development. |
+| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/State%20Management-Riverpod-146C50?style=flat-square) |
+| **Backend & APIs** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square) ![SignalR](https://img.shields.io/badge/SignalR-Real--Time-37B989?style=flat-square) |
+| **Web Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Databases & Storage** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Architecture & Design** | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Domain--Driven-146C50?style=flat-square) ![Repository Pattern](https://img.shields.io/badge/Pattern-Repository%20%26%20UoW-0B3028?style=flat-square) ![REST APIs](https://img.shields.io/badge/APIs-RESTful-0B7285?style=flat-square) |
+| **Management & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Agile Scrum](https://img.shields.io/badge/Methodology-Agile%20Scrum-146C50?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
 
 ---
 
-## 🎯 Areas of Interest
-
-- AI-Powered Applications
-- Business Management Systems
-- Enterprise Software Architecture
-- Cross-Platform Development
-- Intelligent Automation
-- Database Engineering
-- Product Development
-- Technical Leadership
-
----
-
-## 🌱 Current Direction
-
-I am continuously improving my skills in software architecture, backend engineering, AI integration, and building connected digital ecosystems.
-
-My goal is to create software that does more than perform tasks — software that understands business workflows, improves operations, and delivers meaningful value.
-
----
+## 📊 GitHub Analytics
 
 <p align="center">
-  <strong>From the core of an idea to a meaningful solution.</strong>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=alqazqaziabdulkarim-lang&show_icons=true&hide_border=true&bg_color=0B3028&title_color=37B989&icon_color=37B989&text_color=E9F5EF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alqazqaziabdulkarim-lang&layout=compact&hide_border=true&bg_color=0B3028&title_color=37B989&text_color=E9F5EF&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3028&height=110&section=footer" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=alqazqaziabdulkarim-lang&hide_border=true&background=0B3028&ring=37B989&fire=37B989&currStreakLabel=E9F5EF&sideLabels=E9F5EF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AB5A8" width="72%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alqazqaziabdulkarim-lang&bg_color=0B3028&color=E9F5EF&line=37B989&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🧠 Engineering Philosophy & Methodology
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Principle</th>
+      <th width="70%">Execution in Practice</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🎯 Problem First</b></td>
+      <td>Thoroughly deconstruct user requirements and operational friction before making framework decisions.</td>
+    </tr>
+    <tr>
+      <td><b>🏛️ Clean Architecture</b></td>
+      <td>Enforce strict separation between Domain, Application, Infrastructure, and UI layers.</td>
+    </tr>
+    <tr>
+      <td><b>🔒 Data Integrity</b></td>
+      <td>Treat ACID properties, schema validation, and auditability as non-negotiable fundamentals.</td>
+    </tr>
+    <tr>
+      <td><b>🔄 Reusability</b></td>
+      <td>Architect modular design systems, reusable packages, and centralized API clients.</td>
+    </tr>
+    <tr>
+      <td><b>⚡ Intuitive UX</b></td>
+      <td>Hide complex accounting or inventory calculations behind responsive, effortless user interactions.</td>
+    </tr>
+    <tr>
+      <td><b>📈 Continuous Evolution</b></td>
+      <td>Practice code reviews, automated linting, iterative refactoring, and modern tech adoption.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdulkarim-alqazqazi-5a56763b6">
+    <img src="https://img.shields.io/badge/LinkedIn-abdulkarim--alqazqazi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdulkarimalqazqazi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdulkarimalqazqazi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/967782866088">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B967%20782%20866%20088-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/Eng_abdulkarim_IT">
+    <img src="https://img.shields.io/badge/Telegram-@Eng__abdulkarim__IT-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/alqazqaziabdulkarim-lang">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0B3028?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Building useful software is a journey of understanding, creating, and making an impact.”</em>
+</p>
+
+<p align="center">
+  <b>Nawa | نواة</b> &nbsp;•&nbsp; <b>كل منتج يبدأ بفكرة</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3028&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
